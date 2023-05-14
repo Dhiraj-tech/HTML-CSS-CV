@@ -1,2 +1,2 @@
-Deploy on netlify: /n
+Deploy on netlify:
 https://html-cv-template.netlify.app/
