@@ -1,1 +1,1 @@
-CV by HTML-CSS
+https://html-cv-template.netlify.app/
